@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-26T12:01:23 PDT" name="Suite" finished-at="2021-05-26T12:01:41 PDT" duration-ms="17540">
+    <groups>
+    </groups>
+    <test started-at="2021-05-26T12:01:23 PDT" name="Test_GivenRequirement_First_Way" finished-at="2021-05-26T12:01:32 PDT" duration-ms="8860">
+      <class name="com.execise.test.testTiresPOMPage_TC1_First_Way">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.execise.test.testTiresPOMPage_TC1_First_Way@ba54932]" started-at="2021-05-26T12:01:23 PDT" name="setUp" finished-at="2021-05-26T12:01:30 PDT" duration-ms="6370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testTiresPOMPage_TC1()[pri:0, instance:com.execise.test.testTiresPOMPage_TC1_First_Way@ba54932]" started-at="2021-05-26T12:01:30 PDT" name="testTiresPOMPage_TC1" finished-at="2021-05-26T12:01:30 PDT" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTiresPOMPage_TC1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.execise.test.testTiresPOMPage_TC1_First_Way@ba54932]" started-at="2021-05-26T12:01:30 PDT" name="tearDown" finished-at="2021-05-26T12:01:32 PDT" duration-ms="1694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.execise.test.testTiresPOMPage_TC1_First_Way -->
+    </test> <!-- Test_GivenRequirement_First_Way -->
+    <test started-at="2021-05-26T12:01:32 PDT" name="Test_GivenRequirement_Second_Way" finished-at="2021-05-26T12:01:41 PDT" duration-ms="8605">
+      <class name="com.execise.test.testTiresPOMPage_TC1_Second_Way">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.execise.test.testTiresPOMPage_TC1_Second_Way@e1de817]" started-at="2021-05-26T12:01:32 PDT" name="setUp" finished-at="2021-05-26T12:01:39 PDT" duration-ms="6765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testTiresPOMPage_TC1()[pri:0, instance:com.execise.test.testTiresPOMPage_TC1_Second_Way@e1de817]" started-at="2021-05-26T12:01:39 PDT" name="testTiresPOMPage_TC1" finished-at="2021-05-26T12:01:39 PDT" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTiresPOMPage_TC1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.execise.test.testTiresPOMPage_TC1_Second_Way@e1de817]" started-at="2021-05-26T12:01:39 PDT" name="tearDown" finished-at="2021-05-26T12:01:41 PDT" duration-ms="1460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.execise.test.testTiresPOMPage_TC1_Second_Way -->
+    </test> <!-- Test_GivenRequirement_Second_Way -->
+  </suite> <!-- Suite -->
+</testng-results>
