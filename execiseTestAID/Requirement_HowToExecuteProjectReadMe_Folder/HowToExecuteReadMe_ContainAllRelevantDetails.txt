@@ -3,7 +3,7 @@ A) Follow the below steps to clone and execute the project.
       git clone git@github.com:preetheldhose/gitRepoProjectCreatedForEpsilonInterview.git
 2. Open the project execiseTestAID on eclipse (ensure JDK is already installed prior to opening eclipse).
 3. Open testng.xml 
-4. Right click the testng.xml and choose - "Run As" - "TestNG Suite" - for reference I have placed the file ExecuteViaTestNGRightClick (JPEG) in this folder.
+4. Right click the file testng.xml and choose - "Run As" - "TestNG Suite" - for reference I have placed the file ExecuteViaTestNGRightClick (JPEG) in this folder.
 5. This will execute two testng test methods. 
 
 B) Link to the git Repo is as follows: Url: https://github.com/preetheldhose/gitRepoProjectCreatedForEpsilonInterview
